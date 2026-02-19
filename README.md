@@ -1,53 +1,6 @@
-# 👋 Hi, I'm [Nama Kamu]
+# Hi, I'm Ridho Pangestu.
+I'm currently learning programming and building a strong foundation in technology, especially in web development. For me, coding is not just about writing lines of code — it's about developing logical thinking, problem-solving skills, and consistency.
 
-🚀 Tech enthusiast | 💻 [Role utama kamu, mis. Frontend Developer] | 🌱 Lifelong learner  
+I'm focusing on understanding core concepts such as algorithms, basic data structures, and building simple applications to sharpen my skills. Every repository here represents my learning journey — from small experiments to simple but meaningful projects.
 
-Sedang fokus ngulik **[teknologi utama kamu]**, tertarik sama **[minat lain: AI, Web3, Data, dsb]**, dan suka bikin sesuatu yang **bermanfaat + scalable**.
-
----
-
-## 🧠 About Me
-- 🔭 Lagi ngerjain: **[project / goal saat ini]**
-- 🌱 Lagi belajar: **[skill / stack yang lagi dipelajari]**
-- 💬 Ngobrolin hal seru soal: **[topik favorit]**
-- ⚡ Fun fact: **[fakta singkat, boleh receh tapi cerdas]**
-
----
-
-## 🛠️ Tech Stack
-**Languages & Tools:**
-- 💻 [JavaScript / Python / dll]
-- ⚙️ [Framework: React, Next.js, Laravel, dsb]
-- 🛢️ [Database: MySQL, PostgreSQL, MongoDB]
-- ☁️ [Tools: Git, Docker, Firebase, dsb]
-
----
-
-## 📌 Featured Projects
-- 🔥 **[Nama Project 1]**  
-  _Deskripsi singkat (1 baris)._  
-  👉 Repo: https://github.com/[username]/[repo]
-
-- 🚀 **[Nama Project 2]**  
-  _Masalah yang diselesaikan / impact._  
-  👉 Repo: https://github.com/[username]/[repo]
-
----
-
-## 📊 GitHub Stats
-> Konsistensi > viral. Pelan-pelan tapi jalan.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=transparent)
-
----
-
-## 🤝 Let's Connect
-- 🌐 Website: [link]
-- 💼 LinkedIn: [link]
-- 🐦 Twitter/X: [link]
-- 📫 Email: [email]
-
----
-
-_“Build things. Break things. Learn fast. Repeat.”_
+I may still be in the learning phase, but I'm committed to continuous growth and becoming better every day.
